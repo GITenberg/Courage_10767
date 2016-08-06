@@ -1,0 +1,31 @@
+_repo: Courage_10767
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrie, J. M. (James Matthew)
+    alias: Barrie, James Matthew
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+description: Though he achieved literary acclaim as a dramatist, most notably with
+  the timeless children's classic Peter Pan, author J.M. Barrie tackled many subjects
+  over the course of his career, often grappling with philosophical and psychological
+  topics. The breadth of his intellect is on full display in Courage, which is the
+  text of a stirring and inspirational speech he delivered to a group of graduating
+  college students in the early 1920s.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Courage'
+- GITenberg
+title: Courage
+url: http://www.gutenberg.org/ebooks/10767

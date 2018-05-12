@@ -1,5 +1,8 @@
 _repo: Courage_10767
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barrie, J. M. (James Matthew)
@@ -15,6 +18,8 @@ description: Though he achieved literary acclaim as a dramatist, most notably wi
   topics. The breadth of his intellect is on full display in Courage, which is the
   text of a stirring and inspirational speech he delivered to a group of graduating
   college students in the early 1920s.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10767#Courage
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
